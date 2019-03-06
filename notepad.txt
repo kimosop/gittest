@@ -1,0 +1,16 @@
+svdt1atolldb01
+
+The New Safaricom Print Manager has created a Printing Account for you. 
+
+Kindly
+Click on \\svdt3prnt01\safaricom_printer to install and connect to the Printer for HQ1, HQ2, HQ3, SCC, JCC 
+
+Click on \\svdt1prnt01\safaricom_printer to install and connect to the Printer for NAIROBI, WESTERN & RIFT-VALLEY REGION 
+
+Click on \\svdt5prnt01\safaricom_printer to install and connect to the Printer for CENTRAL, EAST & COAST REGION 
+
+To log in to the printer and register your access card , YOUR NEW PIN is: 140387
+
+To Manage your PIN and view your print history, log in to: http://printerportal.safaricom.co.ke:8080/en-us/
+
+Regards,
